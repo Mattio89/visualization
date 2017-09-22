@@ -14,6 +14,6 @@ This is a quick way to sort my dataset using the same combination code from Grap
 
 # To-Do
 
--Set up MatPlotLib so you can select the lines you want, rather than comment them out.
--Make the Find_Tweets.py an variable for-loop so you don't have to change the output each time.
-
+- Set up MatPlotLib so you can select the lines you want, rather than comment them out.
+- Make the Find_Tweets.py an variable for-loop so you don't have to change the output each time.
+- Figure out the issues with output on line 5 in the data
