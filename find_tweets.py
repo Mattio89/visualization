@@ -37,11 +37,6 @@ topic12 = df_final.loc[df_final['Topic'] == '12']
 topic13 = df_final.loc[df_final['Topic'] == '13']
 topic14 = df_final.loc[df_final['Topic'] == '14']
 
-'''
-mylist = [topic0, topic1, topic2, topic3, topic4, topic5, topic6, topic7, topic8, topic9, topic10, topic11, topic12, topic13, topic14]
-for item in mylist:
-	item.to_csv(r'exemplars{0}.csv'.format(item[0]))
-'''
 
 #Change this to the topic you want to output to csv.
 topic7.to_csv(r'exemplars7.csv')
